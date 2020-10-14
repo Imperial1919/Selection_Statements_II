@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SelectionStatements2/1.0.0": {
+        "runtime": {
+          "SelectionStatements2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SelectionStatements2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
